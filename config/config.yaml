@@ -99,7 +99,11 @@ platforms:
     - id: "zhihu"
       name: "知乎"
       expected_domain: "zhihu.com"
-
+platforms:
+  - x
+  - reddit
+  - youtube
+  - google_news
 
 
 # ===============================================================
